@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\!D\LoadRunner\Klamas\UC_klamas_rndCat_persCab
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\!d\loadrunner\klamas\uc_klamas_rndcat_perscab\\logfile.log
-c:\!d\loadrunner\klamas\uc_klamas_rndcat_perscab\\combined_UC_klamas_rndCat_persCab.c
-c:\!d\loadrunner\klamas\uc_klamas_rndcat_perscab\\pre_cci.c
