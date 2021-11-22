@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: catalog-653140",
+                "infFile": "t5.inf",
+                "time": 1637584906001
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC_5_klamas_logout",
+                "rawStartTime": 1637584902105,
+                "rawEndTime": 1637584906001,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012514591217041016
+            }
+        ]
+    }
+]

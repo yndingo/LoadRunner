@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "UC_4_3_klamas_personal_cabinet",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: personal",
+                "infFile": "t4.inf",
+                "time": 1637584902092
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC_4_3_klamas_personal_cabinet",
+                "rawStartTime": 1637584900623,
+                "rawEndTime": 1637584902094,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011412382125854493
+            }
+        ]
+    }
+]
