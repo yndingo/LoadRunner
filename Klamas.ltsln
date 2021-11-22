@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+# SharpDevelop 4.1.3.0-trunk
+Project("24611667-87B4-4BC0-843C-9D8F6FC0EC2D") = "UC_klamas_rndCat_persCab", "UC_klamas_rndCat_persCab\UC_klamas_rndCat_persCab.usr", "24611667-87B4-4BC0-843C-9D8F6FC0EC2D"
+	ProjectSection(CustomLoading) = Data
+		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XCFEXExvYWRSdW5uZXJcS2xhbWFzXFVDX2tsYW1hc19ybmRDYXRfcGVyc0NhYlxVQ19rbGFtYXNfcm5kQ2F0X3BlcnNDYWIudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPlVDX2tsYW1hc19ybmRDYXRfcGVyc0NhYi51c3I8L0ZpbGU+DQogIDwvRmlsZXM+DQogIDxNb2RpZmllZD4yMDIxLTExLTIyVDE3OjE3OjM3LjQ4NzM4NTgrMDU6MDA8L01vZGlmaWVkPg0KPC9QZXJzaXN0ZW5jZVRva2VuPg__
+	EndProjectSection
+	ProjectSection(ExpandInVugen) = Data
+		Value = True
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		24611667-87B4-4BC0-843C-9D8F6FC0EC2D.Debug|Any CPU.Build.0 = Debug|Any CPU
+		24611667-87B4-4BC0-843C-9D8F6FC0EC2D.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		24611667-87B4-4BC0-843C-9D8F6FC0EC2D.Release|Any CPU.Build.0 = Release|Any CPU
+		24611667-87B4-4BC0-843C-9D8F6FC0EC2D.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
