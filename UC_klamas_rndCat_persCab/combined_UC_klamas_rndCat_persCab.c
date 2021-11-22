@@ -1,0 +1,8 @@
+#include "lrun.h"
+#include "SharedParameter.h"
+#include "globals.h"
+#include "vuser_init.c"
+#include "UC_4_1_klamas_catalog_computers.c"
+#include "UC_4_2_klamas_catalog_tv_audio.c"
+#include "UC_4_3_klamas_personal_cabinet.c"
+#include "vuser_end.c"

@@ -1,0 +1,48 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.klamas.ru",
+                "infFile": "t1.inf",
+                "time": 1637584898191
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: login",
+                "infFile": "t2.inf",
+                "time": 1637584899642
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: auth",
+                "infFile": "t3.inf",
+                "time": 1637584900598
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC_1_klamas_open_site",
+                "rawStartTime": 1637584895000,
+                "rawEndTime": 1637584898191,
+                "thinkTime": 0.0,
+                "wastedTime": 0.22343707084655763
+            },
+            {
+                "transactionName": "UC_2_klamas_open_auth_page",
+                "rawStartTime": 1637584898192,
+                "rawEndTime": 1637584899642,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019871234893798829
+            },
+            {
+                "transactionName": "UC_3_klamas_login",
+                "rawStartTime": 1637584899643,
+                "rawEndTime": 1637584900598,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014737367630004883
+            }
+        ]
+    }
+]
